@@ -1,0 +1,1 @@
+{"episodes": 10000, "training_steps": 1000000, "out_dir": "experiments/featurized_results/sparsemountain/tdqn", "out_dir_suffix": "paramsseed", "seed": 18, "eval_after_n_steps": 200, "eval_n_episodes": 1, "agent": "tdqn", "skip_net_max_skips": 10, "env_ms": 200, "dar_base": null, "sparse": true, "dar_A": null, "dar_B": null, "env": "mountain"}

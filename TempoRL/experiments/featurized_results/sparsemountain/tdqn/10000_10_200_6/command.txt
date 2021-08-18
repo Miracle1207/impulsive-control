@@ -1,0 +1,1 @@
+run_featurized_experiments.py -e 10000 -t 1000000 --eval-after-n-steps 200 --agent tdqn --skip-net-max-skips 10 --sparse -s 6
